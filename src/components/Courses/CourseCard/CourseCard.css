@@ -1,0 +1,8 @@
+.coursecard{
+    margin-bottom: 1rem;
+    transition: all 0.5s;
+}
+
+.coursecard:hover{
+    transform: translateY(-10px);
+}
